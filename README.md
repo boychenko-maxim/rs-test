@@ -7,7 +7,7 @@
     - **index-template.css** - оформление приложения, подключается в **index-template.html**
   - js
     - **filterByEducationAndCities.js** - фильтрация по образованию и городам,
-    подключается в index-template.html
+    подключается в **index-template.html**
   - php
     - test
       - **createTables.php** - создает пустые таблицы, согласно тестовому заданию
