@@ -4,7 +4,7 @@
 ## Структура проекта
 - public_html
   - css
-    - **index-template.css** - оформление приложения, подключается в index-template.html
+    - **index-template.css** - оформление приложения, подключается в **index-template.html**
   - js
     - **filterByEducationAndCities.js** - фильтрация по образованию и городам,
     подключается в index-template.html
